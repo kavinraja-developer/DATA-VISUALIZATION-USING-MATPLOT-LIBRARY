@@ -1,4 +1,4 @@
-# EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
+# DATA VISUALIZATION USING MATPLOT LIBRARY
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
@@ -17,9 +17,6 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 
 STEP 5:Include Necessary parameters in each functions.
 # Coding and Output:
-### NAME : KAVINRAJA D
-### REG NO : 212222240047
-### Line
  ```python
 import matplotlib.pyplot as plt
 x=[1,2,3,4,5,6]
